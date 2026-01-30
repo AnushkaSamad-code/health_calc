@@ -6,6 +6,7 @@ BMI Calculator: A tool that calculates Body Mass Index (BMI) and provides instan
 Patient Tracker: A system to manage multiple patient records using Python Lists and Dictionaries.
 Data Persistence (JSON): Integrated the JSON module to save and load patient data permanently in .json files.
 OOP Implementation: Applied Object-Oriented Programming concepts by creating a Student class with custom methods to manage student data more efficiently.
+Advanced OOP Concepts: Implemented Inheritance using the super() function to create a scalable system where a Patient class inherits core attributes from a Person base class, optimizing code reuse
 
 🛠️ Tech Stack
 Language: Python 3.13
@@ -15,4 +16,5 @@ Concepts: Object-Oriented Programming(OOP), Dictionaries, File Handling, and Ser
 
 📈 My Progress
 Currently in my 1st Semester (BSCS), exploring how data science can revolutionize medical records.
+
 
