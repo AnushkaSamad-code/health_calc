@@ -7,6 +7,7 @@ Patient Tracker: A system to manage multiple patient records using Python Lists 
 Data Persistence (JSON): Integrated the JSON module to save and load patient data permanently in .json files.
 OOP Implementation: Applied Object-Oriented Programming concepts by creating a Student class with custom methods to manage student data more efficiently.
 Advanced OOP Concepts: Implemented Inheritance using the super() function to create a scalable system where a Patient class inherits core attributes from a Person base class, optimizing code reuse
+Multiple Inheritance: Designed a complex structure where a medicalintern class simultaneously inherits specialized attributes from both student and hospitalworker classes, showcasing data integration from multiple parent sources.
 
 🛠️ Tech Stack
 Language: Python 3.13
@@ -15,6 +16,7 @@ Tools: VS Code, Git, and GitHub
 Concepts: Object-Oriented Programming(OOP), Dictionaries, File Handling, and Serialization
 
 📈 My Progress
-Currently in my 1st Semester (BSCS), exploring how data science can revolutionize medical records.
+Currently in my 2st Semester (BSCS), exploring how data science can revolutionize medical records.
+
 
 
