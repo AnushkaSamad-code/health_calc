@@ -10,6 +10,7 @@ Advanced OOP Concepts: Implemented Inheritance using the super() function to cre
 Multiple Inheritance: Designed a complex structure where a medicalintern class simultaneously inherits specialized attributes from both student and hospitalworker classes, showcasing data integration from multiple parent sources.
 Multilevel Inheritance: Established a multi-generational class hierarchy (Person → MedicalStaff → Doctor) to demonstrate deep attribute propagation and complex object initialization using the super() method.
 Hybrid Inheritance: A sophisticated mix of Hierarchical and Multiple inheritance. Created a MedicalScientist class that integrates clinical data from Doctor and research data from Researcher, resolving the complex "diamond problem" structure.
+Method Resolution Order (MRO): Explored Python's internal logic for method priority in Multiple Inheritance scenarios. Implemented examples to demonstrate how Python resolves naming conflicts by searching classes in a specific "Left-to-Right" order.
 
 🛠️ Tech Stack
 Language: Python 3.13
@@ -19,6 +20,7 @@ Concepts: Object-Oriented Programming(OOP), Dictionaries, File Handling, and Ser
 
 📈 My Progress
 Currently in my 2nd Semester (BSCS), exploring how data science can revolutionize medical records.
+
 
 
 
