@@ -13,6 +13,7 @@ Hybrid Inheritance: A sophisticated mix of Hierarchical and Multiple inheritance
 Method Resolution Order (MRO): Explored Python's internal logic for method priority in Multiple Inheritance scenarios. Implemented examples to demonstrate how Python resolves naming conflicts by searching classes in a specific "Left-to-Right" order.
 Method Overriding (Polymorphism): Implemented logic to redefine parent class methods in child classes, allowing for specialized behavior and updated functionality.
 Implemented data security by using private attributes (with __) to lock sensitive information. Created public "Getter" methods to allow controlled, read-only access to internal data without exposing it directly.
+Implemented secure data modification using Setter methods. Added validation logic (e.g., in deposit function) to ensure that only valid data updates the private variables, preventing errors like negative deposits.
 
 🛠️ Tech Stack
 Language: Python 3.13
@@ -22,6 +23,7 @@ Concepts: Object-Oriented Programming(OOP), Dictionaries, File Handling, and Ser
 
 📈 My Progress
 Currently in my 2nd Semester (BSCS), exploring how data science can revolutionize medical records.
+
 
 
 
