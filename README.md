@@ -15,6 +15,7 @@ Method Overriding (Polymorphism): Implemented logic to redefine parent class met
 Implemented data security by using private attributes (with __) to lock sensitive information. Created public "Getter" methods to allow controlled, read-only access to internal data without exposing it directly.
 Implemented secure data modification using Setter methods. Added validation logic (e.g., in deposit function) to ensure that only valid data updates the private variables, preventing errors like negative deposits.
 Abstraction: Utilized Python's abc module to create Abstract Base Classes.Defined a mandatory interface (start method) in the parent class Car, compelling all child classes (Toyota, Tesla) to implement their own specific logic. This enforces a standard structure while hiding complex implementation details from the user.
+Magic Methods: Implemented special methods like __str__ and __len__ to customize class behavior. This allows objects (e.g., Book) to be printed in a human-readable format and interact seamlessly with Python's built-in functions like len()
 
 🛠️ Tech Stack
 Language: Python 3.13
@@ -24,6 +25,7 @@ Concepts: Object-Oriented Programming(OOP), Dictionaries, File Handling, and Ser
 
 📈 My Progress
 Currently in my 2nd Semester (BSCS), exploring how data science can revolutionize medical records.
+
 
 
 
